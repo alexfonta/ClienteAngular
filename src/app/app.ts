@@ -4,7 +4,7 @@ import { EventsShow } from './events-show/events-show';
 @Component({
   selector: 'app-root',
   imports: [EventsShow],
-  templateUrl: './app.template.html',
+  templateUrl: './app.html',
   styleUrl: './app.css'
 })
 export class App {
